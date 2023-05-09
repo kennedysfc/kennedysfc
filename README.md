@@ -1,7 +1,6 @@
 ## Olá! Meu nome é Kennedy e sou Programador Front-End
 
-- 👋 Hi, I’m Kennedy
-- 👀 I’m looking forward to be better more than yesterday
+- 📚 Análise e Desenvolvimento de Sistemas - UNIINOVE
 
 
 <div style="display: inline_block"><br>
