@@ -1,11 +1,7 @@
 ## Olá! Meu nome é Kennedy e sou Programador Front-End
 
-
-- 👋 Hi, I’m @kennedysfc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kennedy
+- 👀 I’m looking forward to be better more than yesterday
 
 
 <div style="display: inline_block"><br>
