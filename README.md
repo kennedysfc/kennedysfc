@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Kennedy e sou Programador Front-End
 
-- 📚 Análise e Desenvolvimento de Sistemas - UNIINOVE
+- 📚 Análise e Desenvolvimento de Sistemas - UNINOVE
 
 
 <div style="display: inline_block"><br>
