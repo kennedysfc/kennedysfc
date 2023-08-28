@@ -1,6 +1,6 @@
-## Olá! Meu nome é Kennedy e sou Programador Front-End
+## Hi guys! My name is Kennedy and I'm a Software Engineer!
 
-- 📚 Análise e Desenvolvimento de Sistemas - UNINOVE
+- 📚 Systems Analysis and Development - UNINOVE
 
 
 <div style="display: inline_block"><br>
