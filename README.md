@@ -1,6 +1,6 @@
 ## Hi guys! My name is Kennedy and I'm a Software Engineer!
 
-- 📚 Analysis and Development Systems - UNINOVE
+- 📚 Analysis and Systems Development - UNINOVE
 
 
 <div style="display: inline_block"><br>
