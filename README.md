@@ -1,4 +1,4 @@
-## Hey whats up! My name is Kennedy and I'm a Software Engineer!
+## Hey what's up! My name is Kennedy and I'm a Software Engineer!
 
 - 📚 Analysis and Systems Development - UNINOVE
 
