@@ -19,7 +19,7 @@ Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na
     <img align="center" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Visual Studio" height="30" width="30" src="https://www.svgrepo.com/svg/354520/visual-studio">
+    <img align="center" alt="Visual Studio" height="30" width="30" src="https://www.svgrepo.com/show/354520/visual-studio.svg">
     <img align="center" alt="VSCode" height="30" width="30" src="https://www.svgrepo.com/show/374171/vscode.svg">
     <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
     <img align="center" alt="GitHub" height="30" width="30" src="https://www.svgrepo.com/show/439171/github.svg">
