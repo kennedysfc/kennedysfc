@@ -48,7 +48,7 @@ Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na
 #### 🌐 Portfolio:
 <div >
 	<a href="https://kennedyaurora-portfolio.netlify.app/">
-  	<img align="center" src="https://galanti.dev/src/logo.png" width="150" />
+  	<img align="center" src="https://tryhackme-images.s3.amazonaws.com/room-icons/1e86f53cbe40b305b17e1e61a8cf0e74.svg" width="150" />
   	</a>
 </div>
 	<p><strong>In progress</strong>⚠️</p>
