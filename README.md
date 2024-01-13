@@ -1,4 +1,6 @@
-## Hello World, My Name's Kennedy // Olá Mundo! Me chamo Kennedy <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=HELLO%2C+WORLD!++%3D%5D)](https://git.io/typing-svg)
+
+## My Name's Kennedy <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
 Future Software Engineer studying Systems Analysis and Development at UNINOVE, learning to solve problems!
 //
@@ -55,5 +57,5 @@ Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na
  
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedysfc&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kennedysfc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedysfc&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
