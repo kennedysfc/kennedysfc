@@ -41,11 +41,12 @@ Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na
 
 #### 📫 Find Me // Você pode me encontrar em:
 
-<div> 
+<div>
   <a href = "mailto:kennedy.aurora.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kennedy-aurora-4906051b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/kennedy-aurora-4906051b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/kenendysfc)
 
 #### 🌐 Portfolio:
 <div >
