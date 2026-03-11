@@ -60,4 +60,4 @@ Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na
 ### GitHub Stats
 
 ![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedysfc&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedysfc&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
