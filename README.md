@@ -38,7 +38,7 @@ Tenho grande interesse em resolver problemas reais através da tecnologia e evol
 
 <img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 
-<img align="center" alt="Supabase" height="30" width="30" src="https://www.svgrepo.com/show/354202/supabase-icon.svg">
+<img align="center" alt="Supabase" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
 
 <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 
