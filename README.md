@@ -2,10 +2,10 @@
 
 ## My Name's Kennedy <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
 
-Future Software Engineer studying Systems Analysis and Development at UNINOVE, learning to solve problems!
+Software Engineer studying Systems Analysis and Development at UNINOVE, learning to solve problems!
 //
 <br/>
-Futuro Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Aprendendo a resolver problemas!
+Engenheiro de Software cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Aprendendo a resolver problemas!
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
